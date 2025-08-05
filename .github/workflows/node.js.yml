@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ci-demo
+        working-directory: ci
 
     steps:
       - name: Checkout code
