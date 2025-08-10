@@ -1,3 +1,4 @@
+import React from "react";
 const Calculator = ( {arr} ) => {
   return <div>
     {arr[0]+arr[1]}
